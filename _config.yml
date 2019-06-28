@@ -1,6 +1,6 @@
 # Site settings
-title: "Jekyll Resume Template"
-description: "A resume template for Jekyll and GitHub Pages sites."
+title: "Cuong Dinh's resume page"
+description: "Updated curriculum vitae of Cuong Dinh"
 
 # Build settings
 markdown: kramdown
@@ -11,9 +11,9 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Cuong H. Dinh"
-resume_title:                   "Nuclear Safety Inspector"
+resume_title:                   "Cyber Security Architect"
 resume_contact_email:
-  "homerjsimpson@youremailaddress.com"
+  "mail@cuong.tel"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
