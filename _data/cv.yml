@@ -33,38 +33,9 @@ career:
    dates: "May 2015 - Apr 2016"
    summary: "Co-founder"
    accomplishments:
-    - accomplishment: "Web Application Security Penetration Testing Leader"
-  	- accomplishment: "Mobile Application Security Assessment iOS Android."
-  	- accomplishment: "Operating System Security Audit (MS Windows, *nix ). - Developer"
-  	- accomplishment: "Security Tools Development - Leader"
-  	- accomplishment: "Enterprise Security Solution (NGFW, SIEM, DLP, BDS..) - Leader"
-  - position: "Sr. Information Security Analyst"
-    company: "FPT Online JSC - FPT Group"
-    location: "HCMC, Vietnam"
-    dates: "Oct 2014 - Sep 2015"
-    summary: "Information Security Team Leader"
-    accomplishments:
-    - accomplishment: "Web Application Security Penetration Testing & Hardening (VnExpress.net, NgoiSao.net....) - Leader"
-   	- accomplishment: "Operating System Security Audit (MS Windows, *nix ). - Developer"
-   	- accomplishment: "Cyber Security Incident Response"
-  - position: "Information Security Analyst"
-    company: "FPT Telecom JSC - FPT Group"
-    location: "HCMC, Vietnam"
-    dates: "Sep 2013 - Oct 2014"
-    summary: "Spent most of time in security testing and tool developing"
-    accomplishments:
-    - accomplishment: "Web-App Penetration Testing : Fshare.Vn, Nhacso.net, Member.Fpt.vn, Hd.fpt.vn .... "
-    - accomplishment: "Web-App Penetration Testing"
-    - accomplishment: "Operating System Security Audit (MS Windows, *nix ). - Developer "
-    - accomplishment: "Malware Reverse Engineering"
-    - accomplishment: "Parental Control (Key-Project of FPT Telecom 2015) - Leader"
-  - position: "Security Penetration Tester"
-    company: "Sendo.vn - FPT Group"
-    location: "HCMC, Vietnam"
-    dates: "Mar 2013 - Sep 2013"
-    summary: "Bugs hunting"
-    accomplishments:
-    - accomplishment: "Web-App Penetration Testing"
+    - accomplishment: "Web Application Security Penetration Testing - Leader"
+  	- accomplishment: "Mobile Application Security Assessment (iOS, Android) - Leader"
+
 
 technicalSkills:
   list:
