@@ -7,13 +7,13 @@ person:
   depiction: "kang.JPG"
   profession: "a.k.a: kang"
   location: "Ho Chi Minh City - Vietnam"
-  citizenship: VN
-  email: mail[at]cuong[dot]tel
-  site: cuong.tel
-  phone: (+84)3 5383 1383
-  github: /cuongdh
-  stackoverflow: /streetturtle
-  linkedin: /dhcuong
+  citizenship: "VN"
+  email: "mail[at]cuong[dot]tel"
+  site: "cuong.tel"
+  phone: "(+84)3 5383 1383"
+  github: "/cuongdh"
+  stackoverflow: "/cuongdh"
+  linkedin: "/dhcuong"
 career:
 - position: "Sr. Security Engineer"
  company: "LAZADA - ALIBABA GROUP"
