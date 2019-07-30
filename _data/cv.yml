@@ -15,26 +15,25 @@ person:
   stackoverflow: /streetturtle
   linkedin: /dhcuong
 career:
- - position: "Sr. Security Engineer"
-   company: "LAZADA - ALIBABA GROUP"
-   location: "HCMC, Vietnam"
-   dates: "May 2016 - June 2018"
-   summary: "To be updated"
-   accomplishments:
-    - accomplishment: "Detecting & Responding actual/potential security incident."
-    - accomplishment: "Maintaining/handling SecOps daily works: Centralization logging, Endpoint security, HIDS, NIDS, Firewall/UTM. etc"
-    - accomplishment: "Performing penetration test to internal application/system."
-    - accomplishment: "Conducting PCI-DSS self-compliance audit"
-    - accomplishment: "Developing security toolkit."
-    - accomplishment: "Other works in Digital forensic investigating, Malware analyzing..."
- - position: "Cyber Security Specialist"
-   company: "Bao Tin Technology Ltd"
-   location: "HCMC, Vietnam"
-   dates: "May 2015 - Apr 2016"
-   summary: "Co-founder"
-   accomplishments:
-    - accomplishment: "Web Application Security Penetration Testing - Leader"
-  	- accomplishment: "Mobile Application Security Assessment (iOS, Android) - Leader"
+- position: "Sr. Security Engineer"
+ company: "LAZADA - ALIBABA GROUP"
+ location: "HCMC, Vietnam"
+ dates: "May 2016 - June 2018"
+ summary: "To be updated"
+ accomplishments:
+  - accomplishment: "Detecting & Responding actual/potential security incident."
+  - accomplishment: "Maintaining/handling SecOps daily works: Centralization logging, Endpoint security, HIDS, NIDS, Firewall/UTM. etc"
+  - accomplishment: "Performing penetration test to internal application/system."
+  - accomplishment: "Conducting PCI-DSS self-compliance audit"
+  - accomplishment: "Developing security toolkit."
+  - accomplishment: "Other works in Digital forensic investigating, Malware analyzing..."
+- position: "Cyber Security Specialist"
+ company: "Bao Tin Technology Ltd"
+ location: "HCMC, Vietnam"
+ dates: "May 2015 - Apr 2016"
+ summary: "Co-founder"
+ accomplishments:
+  - accomplishment: "Web Application Security Penetration Testing - Leader"
 
 
 technicalSkills:
