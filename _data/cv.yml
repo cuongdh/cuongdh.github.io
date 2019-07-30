@@ -15,11 +15,11 @@ person:
   stackoverflow: /streetturtle
   linkedin: /dhcuong
 career:
- - position: Sr. Security Operation Analyst
-   company: LAZADA - ALIBABA GROUP (NYSE:BABA)
-   location: Ho Chi Minh City
-   dates: May 2016 - June 2018
-   summary: To be updated
+ - position: "Sr. Security Operation Analyst"
+   company: "LAZADA - ALIBABA GROUP"
+   location: "Ho Chi Minh City"
+   dates: "May 2016 - June 2018"
+   summary: "To be updated"
    accomplishments:
     - accomplishment: "Detecting & Responding actual/potential security incident."
     - accomplishment: "Maintaining/handling SecOps daily works: Centralization logging, Endpoint security, HIDS, NIDS, Firewall/UTM. etc"
