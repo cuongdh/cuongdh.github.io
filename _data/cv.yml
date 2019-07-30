@@ -3,10 +3,10 @@ projectUrl: jekyl-cv-crafter
 
 # leave blank fields which you don't want to fill/be displayed
 person:
-  name: Cuong H. Dinh
-  depiction: headshot.png
-  profession: Kang
-  location: Ho Chi Minh City - Vietnam
+  name: "Cuong H. Dinh"
+  depiction: "kang.JPG"
+  profession: "a.k.a: kang"
+  location: "Ho Chi Minh City - Vietnam"
   citizenship: VN
   email: mail[at]cuong[dot]tel
   site: cuong.tel
