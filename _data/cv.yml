@@ -26,7 +26,7 @@ career:
     - accomplishment: "Performing penetration test to internal application/system."
     - accomplishment: "Conducting PCI-DSS self-compliance audit"
     - accomplishment: "Developing security toolkit."
-    accomplishments: "Other works in Digital forensic investigating, Malware analyzing..."
+  summary: "Other works in Digital forensic investigating, Malware analyzing..."
  - position: Shredder enemy
    company: TMNT
    location: New York, USA
