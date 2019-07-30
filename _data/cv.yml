@@ -3,17 +3,17 @@ projectUrl: jekyl-cv-crafter
 
 # leave blank fields which you don't want to fill/be displayed
 person:
-  name: Michelangelo
+  name: Cuong H. Dinh
   depiction: headshot.png
-  profession: Teenage Mutant Ninja Turtle
-  location: sewers of New York City
-  citizenship: USA
-  email: mikey@tmnt.com
-  site: http://mikeystmnt.com
-  phone: +8-tmnt-mickey
-  github: /streetturtle
+  profession: Kang
+  location: Ho Chi Minh City - Vietnam
+  citizenship: VN
+  email: mail[at]cuong[dot]tel
+  site: https://cuong.tel
+  phone: (+84)3 5383 1383
+  github: /cuongdh
   stackoverflow: /streetturtle
-  linkedin: /streetturtle
+  linkedin: /dhcuong
 
 career:
  - position: Foot Clan Antagonist
