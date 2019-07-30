@@ -15,9 +15,9 @@ person:
   stackoverflow: /streetturtle
   linkedin: /dhcuong
 career:
- - position: "Sr. Security Operation Analyst"
+ - position: "Sr. Security Engineer"
    company: "LAZADA - ALIBABA GROUP"
-   location: "Ho Chi Minh City"
+   location: "HCMC, Vietnam"
    dates: "May 2016 - June 2018"
    summary: "To be updated"
    accomplishments:
@@ -27,15 +27,44 @@ career:
     - accomplishment: "Conducting PCI-DSS self-compliance audit"
     - accomplishment: "Developing security toolkit."
     - accomplishment: "Other works in Digital forensic investigating, Malware analyzing..."
- - position: Shredder enemy
-   company: TMNT
-   location: New York, USA
-   dates: October 2012 – September 2014
-   summary: Impulsive, creative and very social, Michelangelo is the heart and soul of the Ninja Turtles. The runt of the litter, he may be the smallest of his mutant brothers, but that doesn't make him the weakest (just harder to catch). Enemies beware! Michelangelo is a master of the Kusarigama, nunchucks with a secret and sharp surprise!
+ - position: "Cyber Security Specialist"
+   company: "Bao Tin Technology Ltd"
+   location: "HCMC, Vietnam"
+   dates: "May 2015 - April 2016"
+   summary: "Co-founder"
    accomplishments:
-    - accomplishment: Mikey's skills as a skateboarder and a ninja give him a great ability with balance.
-    - accomplishment: He has the normal ability of a turtle to go into his shell.
-
+    - accomplishment: "Web Application Security Penetration Testing- Leader"
+  	- accomplishment: "Mobile Application Security Assessment (iOS, Android.)- Leader"
+  	- accomplishment: "Operating System Security Audit (MS Windows, *nix ). - Developer"
+  	- accomplishment: "Security Tools Development - Leader"
+  	- accomplishment: "Enterprise Security Solution (NGFW, SIEM, DLP, BDS..) - Leader"
+  - position: "Sr. Information Security Analyst"
+    company: "FPT Online JSC - FPT Group"
+    location: "HCMC, Vietnam"
+    dates: "Oct 2014 - Sep 2015"
+    summary: "Information Security Team Leader"
+    accomplishments:
+    - accomplishment: "Web Application Security Penetration Testing & Hardening (VnExpress.net, NgoiSao.net....) - Leader"
+   	- accomplishment: "Operating System Security Audit (MS Windows, *nix ). - Developer"
+   	- accomplishment: "Cyber Security Incident Response"
+  - position: "Information Security Analyst"
+    company: "FPT Telecom JSC - FPT Group"
+    location: "HCMC, Vietnam"
+    dates: "Sep 2013 - Oct 2014"
+    summary: "Spent most of time in security testing and tool developing"
+    accomplishments:
+    - accomplishment: "Web-App Penetration Testing : Fshare.Vn, Nhacso.net, Member.Fpt.vn, Hd.fpt.vn .... "
+    - accomplishment: "Web-App Penetration Testing"
+    - accomplishment: "Operating System Security Audit (MS Windows, *nix ). - Developer "
+    - accomplishment: "Malware Reverse Engineering"
+    - accomplishment: "Parental Control (Key-Project of FPT Telecom 2015) - Leader"
+  - position: "Security Penetration Tester"
+    company: "Sendo.vn - FPT Group"
+    location: "HCMC, Vietnam"
+    dates: "Mar 2013 - Sep 2013"
+    summary: "Bugs hunting"
+    accomplishments:
+    - accomplishment: "Web-App Penetration Testing"
 technicalSkills:
   list:
     - tr: "Impulsive, creative and very social"
