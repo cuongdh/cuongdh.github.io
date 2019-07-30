@@ -1,4 +1,4 @@
-url: http://streetturtle.github.io
+url: http://cuong.tel
 projectUrl: jekyl-cv-crafter
 
 # leave blank fields which you don't want to fill/be displayed
@@ -34,8 +34,6 @@ career:
  summary: "Co-founder"
  accomplishments:
   - accomplishment: "Web Application Security Penetration Testing - Leader"
-
-
 technicalSkills:
   list:
     - tr: "Impulsive, creative and very social"
