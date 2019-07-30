@@ -27,11 +27,10 @@ career:
     - accomplishment: "Conducting PCI-DSS self-compliance audit"
     - accomplishment: "Developing security toolkit."
     - accomplishment: "Other works in Digital forensic investigating, Malware analyzing..."
-
  - position: "Cyber Security Specialist"
    company: "Bao Tin Technology Ltd"
    location: "HCMC, Vietnam"
-   dates: "May 2015 - April 2016"
+   dates: "May 2015 - Apr 2016"
    summary: "Co-founder"
    accomplishments:
     - accomplishment: "Web Application Security Penetration Testing - Leader"
@@ -39,7 +38,6 @@ career:
   	- accomplishment: "Operating System Security Audit (MS Windows, *nix ). - Developer"
   	- accomplishment: "Security Tools Development - Leader"
   	- accomplishment: "Enterprise Security Solution (NGFW, SIEM, DLP, BDS..) - Leader"
-
   - position: "Sr. Information Security Analyst"
     company: "FPT Online JSC - FPT Group"
     location: "HCMC, Vietnam"
@@ -49,7 +47,6 @@ career:
     - accomplishment: "Web Application Security Penetration Testing & Hardening (VnExpress.net, NgoiSao.net....) - Leader"
    	- accomplishment: "Operating System Security Audit (MS Windows, *nix ). - Developer"
    	- accomplishment: "Cyber Security Incident Response"
-
   - position: "Information Security Analyst"
     company: "FPT Telecom JSC - FPT Group"
     location: "HCMC, Vietnam"
@@ -61,7 +58,6 @@ career:
     - accomplishment: "Operating System Security Audit (MS Windows, *nix ). - Developer "
     - accomplishment: "Malware Reverse Engineering"
     - accomplishment: "Parental Control (Key-Project of FPT Telecom 2015) - Leader"
-
   - position: "Security Penetration Tester"
     company: "Sendo.vn - FPT Group"
     location: "HCMC, Vietnam"
