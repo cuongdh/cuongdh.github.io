@@ -27,13 +27,7 @@ career:
   - accomplishment: "Conducting PCI-DSS self-compliance audit"
   - accomplishment: "Developing security toolkit."
   - accomplishment: "Other works in Digital forensic investigating, Malware analyzing..."
-- position: "Cyber Security Specialist"
- company: "Bao Tin Technology Ltd"
- location: "HCMC, Vietnam"
- dates: "May 2015 - Apr 2016"
- summary: "Co-founder"
- accomplishments:
-  - accomplishment: "Web Application Security Penetration Testing - Leader"
+
 technicalSkills:
   list:
     - tr: "Impulsive, creative and very social"
